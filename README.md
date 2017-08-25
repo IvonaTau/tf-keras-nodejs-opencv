@@ -1,2 +1,9 @@
 # tf-keras-nodejs-opencv
-Dockerfile for deep learning app in Node.js
+
+- Python 3.5
+- Keras
+- Tensorflow
+- OpenCV
+- Node.js
+- Gulp
+- npm
